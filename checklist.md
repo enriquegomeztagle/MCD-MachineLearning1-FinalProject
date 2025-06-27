@@ -1,8 +1,5 @@
 # ✅ Checklist Proyecto
 
-- [ ] Regresión Lineal
-- [ ] OLS
-
 ## Clasificación
 
 - [X] EDA
@@ -27,3 +24,16 @@
 - [X] Redes Neuronales
 
 ## Regresión
+
+- [X] Escalado
+- [X] Datos Faltantes
+- [X] Multicolinealidad
+- [X] Regresión Lineal
+- [X] KNN
+- [X] OLS
+- [X] Random Forest
+- [X] Decision Tree
+- [X] XB
+- [X] AB
+- [X] Redes Neuronales
+- [X] Grid Search
